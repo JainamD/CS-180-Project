@@ -6,6 +6,9 @@
 - Jainam Doshi
 - Kris Leungwattanakij 
 
+## VIDEO DEMO (Demo starts at 1:45)
+[CS180-DEMO](https://youtu.be/Qs-JR3WUj5o)
+
 ## How to Compile and Run the Project
 1) Compile and run the Server.java file in a command line interface of your choice on the computer you wish to host your server on. 
 2) Open GUI.java in an editor of your choice and replace "localhost" on line 144 with the IP address of the computer running the server. 
